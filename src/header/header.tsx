@@ -1,5 +1,5 @@
-import logo from './assets/logo.png'
-import search_icon from './assets/search_icon.png'
+import logo from '../assets/logo.png'
+import search_icon from '../assets/search_icon.png'
 
 export default function Header() {
     return (
